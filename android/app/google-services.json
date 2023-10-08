@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335740397249",
+    "project_id": "groupie-d073f",
+    "storage_bucket": "groupie-d073f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335740397249:android:01dea9dda19b79d7949640",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaK_dbnyEEtzXbX-kui6aTC_fkhjC8UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
